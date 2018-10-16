@@ -1,0 +1,20 @@
+package dataGenerator
+import scala.util.Random
+
+class generator (var dataType: String,var dataSize: Int,var dataVolume: Int,var dataMultiplierSwitch: Boolean,var dataSorted: Int) {
+                  // declaration of a function
+     def test(): Unit = {
+                        //dataSize      = dSize + dataSize
+                        //dataVolume    = dVolume + dataVolume
+                        println("Data Size: "+dataSize)
+                        println("Data Volume: "+dataVolume)
+                }
+    //generate a random string
+    def stringGenerator(textLength: Int): String = {
+      dataSize = dataSize + textLength
+      // Random.alphanumeric.take(length).mkString("")
+      //  var stringRandom: String = (new Random().alphanumeric).toString(dataSize)
+      var stringRandom: String = Random.alphanumeric.take(dataSize).mkString("")
+      return stringRandom      
+    }
+}

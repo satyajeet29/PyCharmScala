@@ -1,0 +1,10 @@
+package dataGenerator
+
+object testInternal {
+  def main(args: Array[String]) {
+    println("Hello World Test!")
+    var testValue = new generator("Int", 128, 500, true, 2)
+    testValue.test()
+    println(testValue.stringGenerator())
+  }
+}

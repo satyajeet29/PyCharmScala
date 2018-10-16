@@ -1,0 +1,457 @@
+2018-10-13 09:51:18,516  WARN [ModalContext] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 09:51:18,519  WARN [ModalContext] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 09:52:09,077  WARN [Worker-8] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 09:52:09,077  WARN [Worker-8] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 09:52:32,779  WARN [main] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 09:52:32,787  WARN [main] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 09:53:05,329  WARN [main] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 09:53:05,329  WARN [main] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 09:53:05,561  WARN [Worker-1] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 09:53:05,562  WARN [Worker-1] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 10:20:31,490  WARN [main] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 10:20:31,490  WARN [main] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 10:20:31,663  WARN [Worker-11] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 10:20:31,664  WARN [Worker-11] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 10:22:14,639  WARN [Worker-9] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 10:22:14,639  WARN [Worker-9] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 10:50:24,656  WARN [Worker-20] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 10:50:24,656  WARN [Worker-20] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 10:53:12,244  WARN [Worker-7] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 10:53:12,245  WARN [Worker-7] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 10:54:21,932  WARN [ModalContext] - ScalaProject - Project hello has platform default sourceLevel.
+2018-10-13 10:54:21,933  WARN [ModalContext] - ScalaProject - Project hello runs on platform default installation.
+2018-10-13 10:54:22,318  WARN [Worker-1] - ScalaProject - Project hello has platform default sourceLevel.
+2018-10-13 10:54:22,319  WARN [Worker-1] - ScalaProject - Project hello runs on platform default installation.
+2018-10-13 10:54:57,980  WARN [Worker-0] - ScalaProject - Project hello has platform default sourceLevel.
+2018-10-13 10:54:57,980  WARN [Worker-0] - ScalaProject - Project hello runs on platform default installation.
+2018-10-13 10:55:55,592  WARN [main] - ScalaProject - Project hello has platform default sourceLevel.
+2018-10-13 10:55:55,592  WARN [main] - ScalaProject - Project hello runs on platform default installation.
+2018-10-13 10:56:03,757  WARN [main] - ScalaProject - Project hello has platform default sourceLevel.
+2018-10-13 10:56:03,758  WARN [main] - ScalaProject - Project hello runs on platform default installation.
+2018-10-13 10:56:03,982  WARN [Worker-7] - ScalaProject - Project hello has platform default sourceLevel.
+2018-10-13 10:56:03,982  WARN [Worker-7] - ScalaProject - Project hello runs on platform default installation.
+2018-10-13 10:57:59,904  WARN [Worker-6] - ScalaProject - Project hello has platform default sourceLevel.
+2018-10-13 10:57:59,905  WARN [Worker-6] - ScalaProject - Project hello runs on platform default installation.
+2018-10-13 11:13:03,863  WARN [Worker-0] - ScalaProject - Project hello has platform default sourceLevel.
+2018-10-13 11:13:03,865  WARN [Worker-0] - ScalaProject - Project hello runs on platform default installation.
+2018-10-13 11:13:46,248  WARN [ModalContext] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 11:13:46,249  WARN [ModalContext] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 11:13:46,673  WARN [ModalContext] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 11:13:46,673  WARN [ModalContext] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 11:13:47,069  WARN [Worker-5] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 11:13:47,069  WARN [Worker-5] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 11:13:47,187  WARN [Worker-4] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 11:13:47,187  WARN [Worker-4] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 11:14:37,482  WARN [Worker-4] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 11:14:37,482  WARN [Worker-4] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 11:14:59,665  WARN [main] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 11:14:59,665  WARN [main] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 11:15:04,578  WARN [main] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 11:15:04,578  WARN [main] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 11:15:04,754  WARN [Worker-4] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 11:15:04,754  WARN [Worker-4] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 11:23:49,108  WARN [main] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 11:23:49,108  WARN [main] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 11:23:49,279  WARN [Worker-0] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 11:23:49,279  WARN [Worker-0] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 11:24:00,235  WARN [main] - ScalaProject - Project hello has platform default sourceLevel.
+2018-10-13 11:24:00,235  WARN [main] - ScalaProject - Project hello runs on platform default installation.
+2018-10-13 11:29:04,613  WARN [Worker-4] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 11:29:04,613  WARN [Worker-4] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 11:29:37,618  WARN [main] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 11:29:37,618  WARN [main] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 11:29:37,769  WARN [Worker-7] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 11:29:37,769  WARN [Worker-7] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 11:30:00,927  WARN [Worker-5] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 11:30:00,929  WARN [Worker-5] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 11:30:38,558  WARN [main] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 11:30:38,558  WARN [main] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 11:30:38,739  WARN [Worker-3] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 11:30:38,739  WARN [Worker-3] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 11:31:35,161  WARN [Worker-6] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 11:31:35,162  WARN [Worker-6] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 11:33:59,544  WARN [Worker-7] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 11:33:59,545  WARN [Worker-7] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 11:36:38,865  WARN [Worker-7] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 11:36:38,865  WARN [Worker-7] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 12:13:13,088 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:389)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:130)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:106)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:95)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:148)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:951)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:799)
+	at scala.tools.nsc.interactive.Global.$anonfun$getTypedTreeAt$1(Global.scala:829)
+	at scala.tools.nsc.interactive.Global.$anonfun$respond$1(Global.scala:688)
+	at scala.tools.nsc.interactive.Global.respondGradually(Global.scala:695)
+	at scala.tools.nsc.interactive.Global.respond(Global.scala:688)
+	at scala.tools.nsc.interactive.Global.getTypedTreeAt(Global.scala:829)
+	at scala.tools.nsc.interactive.CompilerControl$AskTypeAtItem.apply$mcV$sp(CompilerControl.scala:333)
+	at scala.tools.nsc.interactive.Global.$anonfun$pollForWork$1(Global.scala:493)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:418)
+	at scala.tools.nsc.interactive.Global.checkForMoreWork(Global.scala:507)
+	at scala.tools.nsc.interactive.Global.signalParseProgress(Global.scala:318)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.funDefRest(Parsers.scala:2734)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.funDefOrDcl(Parsers.scala:2691)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.defOrDcl(Parsers.scala:2576)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.nonLocalDefOrDcl(Parsers.scala:2588)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1.$anonfun$applyOrElse$2(Parsers.scala:3145)
+	at scala.tools.nsc.doc.ScaladocSyntaxAnalyzer$ScaladocUnitParser.joinComment(ScaladocAnalyzer.scala:194)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1.applyOrElse(Parsers.scala:3145)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.statSeq(Parsers.scala:3072)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateStats(Parsers.scala:3139)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.$anonfun$templateStatSeq$1(Parsers.scala:3126)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:481)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateStatSeq(Parsers.scala:3103)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.$anonfun$templateBody$1(Parsers.scala:3032)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateBody(Parsers.scala:66)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateBodyOpt(Parsers.scala:3039)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateOpt(Parsers.scala:3003)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.$anonfun$classDef$1(Parsers.scala:2866)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.savingClassContextBounds(Parsers.scala:326)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.classDef(Parsers.scala:2852)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.tmplDef(Parsers.scala:2826)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topLevelTmplDef(Parsers.scala:2811)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1.$anonfun$applyOrElse$1(Parsers.scala:3095)
+	at scala.tools.nsc.doc.ScaladocSyntaxAnalyzer$ScaladocUnitParser.joinComment(ScaladocAnalyzer.scala:194)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1.applyOrElse(Parsers.scala:3095)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.statSeq(Parsers.scala:3072)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topStatSeq(Parsers.scala:3087)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topstats$1(Parsers.scala:3285)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.$anonfun$compilationUnit$1(Parsers.scala:3291)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:481)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.compilationUnit(Parsers.scala:3253)
+	at scala.tools.nsc.ast.parser.Parsers$SourceFileParser.$anonfun$parseStartRule$1(Parsers.scala:145)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.$anonfun$parse$1(Parsers.scala:351)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.parseRule(Parsers.scala:344)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.parse(Parsers.scala:351)
+	at scala.tools.nsc.ast.parser.Parsers$UnitParser.$anonfun$smartParse$1(Parsers.scala:241)
+	at scala.tools.nsc.ast.parser.Parsers$UnitParser.smartParse(Parsers.scala:216)
+	at scala.tools.nsc.ast.parser.SyntaxAnalyzer.scala$tools$nsc$ast$parser$SyntaxAnalyzer$$initialUnitBody(SyntaxAnalyzer.scala:87)
+	at scala.tools.nsc.ast.parser.SyntaxAnalyzer$ParserPhase.apply(SyntaxAnalyzer.scala:99)
+	at scala.tools.nsc.Global$GlobalPhase.$anonfun$applyPhase$1(Global.scala:426)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:419)
+	at scala.tools.nsc.Global$Run.$anonfun$compileLate$3(Global.scala:1542)
+	at scala.tools.nsc.Global$Run.$anonfun$compileLate$2(Global.scala:1542)
+	at scala.tools.nsc.Global$Run.$anonfun$compileLate$2$adapted(Global.scala:1541)
+	at scala.collection.Iterator.foreach(Iterator.scala:929)
+	at scala.collection.Iterator.foreach$(Iterator.scala:929)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1417)
+	at scala.tools.nsc.Global$Run.compileLate(Global.scala:1541)
+	at scala.tools.nsc.interactive.Global.parseAndEnter(Global.scala:645)
+	at scala.tools.nsc.interactive.Global.$anonfun$backgroundCompile$4(Global.scala:554)
+	at scala.tools.nsc.interactive.Global.$anonfun$backgroundCompile$3(Global.scala:551)
+	at scala.tools.nsc.interactive.Global.backgroundCompile(Global.scala:551)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:25)
+2018-10-13 12:28:25,920  WARN [Worker-6] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 12:28:25,921  WARN [Worker-6] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 12:29:51,295  WARN [Worker-6] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 12:29:51,295  WARN [Worker-6] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 12:30:36,830  WARN [Worker-9] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 12:30:36,830  WARN [Worker-9] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 12:31:09,459  WARN [Worker-9] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 12:31:09,459  WARN [Worker-9] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 12:32:22,222  WARN [Worker-8] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 12:32:22,223  WARN [Worker-8] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 13:22:19,376  WARN [Worker-3] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 13:22:19,376  WARN [Worker-3] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 13:22:36,808  WARN [Worker-1] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 13:22:36,808  WARN [Worker-1] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 13:24:21,072  WARN [Worker-10] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 13:24:21,072  WARN [Worker-10] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 13:25:00,237  WARN [Worker-4] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 13:25:00,237  WARN [Worker-4] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 13:29:55,758  WARN [Worker-3] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 13:29:55,758  WARN [Worker-3] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 13:30:02,526  WARN [Worker-10] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 13:30:02,526  WARN [Worker-10] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 13:30:18,628  WARN [Worker-1] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 13:30:18,628  WARN [Worker-1] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 14:24:44,173  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 14:24:44,173  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 14:24:44,175  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 14:24:44,175  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 14:24:44,176  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 14:24:44,176  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 14:24:44,177  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 14:24:44,177  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 14:24:44,178  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 14:24:44,178  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 14:24:44,251 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Error thrown while initializing the presentation compiler.
+Java Model Exception: Java Model Status [DataGenerator does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:556)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2451)
+	at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:1903)
+	at org.eclipse.jdt.internal.core.JavaProject.getRawClasspath(JavaProject.java:1925)
+	at org.scalaide.core.internal.project.ClasspathManagement.jdkPaths(ClasspathManagement.scala:149)
+	at org.scalaide.core.internal.project.ClasspathManagement.jdkPaths$(ClasspathManagement.scala:148)
+	at org.scalaide.core.internal.project.ScalaProject.jdkPaths(ScalaProject.scala:150)
+	at org.scalaide.core.internal.project.ClasspathManagement.scalaClasspath(ClasspathManagement.scala:136)
+	at org.scalaide.core.internal.project.ClasspathManagement.scalaClasspath$(ClasspathManagement.scala:135)
+	at org.scalaide.core.internal.project.ScalaProject.scalaClasspath(ScalaProject.scala:150)
+	at org.scalaide.core.internal.project.ScalaProject.setupCompilerClasspath(ScalaProject.scala:498)
+	at org.scalaide.core.internal.project.ScalaProject.initializeCompilerSettings(ScalaProject.scala:485)
+	at org.scalaide.core.internal.project.ScalaProject.prepareCompilerSettings(ScalaProject.scala:438)
+	at org.scalaide.core.internal.project.ScalaProject.$anonfun$presentationCompiler$1(ScalaProject.scala:162)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.liftedTree1$1(PresentationCompilerProxy.scala:154)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.create(PresentationCompilerProxy.scala:153)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.initialize(PresentationCompilerProxy.scala:118)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.obtainPc$1(PresentationCompilerProxy.scala:80)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:100)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.apply(PresentationCompilerProxy.scala:58)
+	at org.scalaide.core.compiler.InteractiveCompilationUnit.forceReconcile(InteractiveCompilationUnit.scala:150)
+	at org.scalaide.core.compiler.InteractiveCompilationUnit.forceReconcile$(InteractiveCompilationUnit.scala:149)
+	at org.scalaide.core.internal.jdt.model.ScalaSourceFile.forceReconcile(ScalaSourceFile.scala:71)
+	at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy.handleReconciliation(ScalaReconcilingStrategy.scala:54)
+	at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy.reconcile(ScalaReconcilingStrategy.scala:39)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:77)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:69)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+2018-10-13 14:24:44,252 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Error thrown while initializing the presentation compiler.
+Java Model Exception: Java Model Status [DataGenerator does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:556)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2451)
+	at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:1903)
+	at org.eclipse.jdt.internal.core.JavaProject.getRawClasspath(JavaProject.java:1925)
+	at org.scalaide.core.internal.project.ClasspathManagement.jdkPaths(ClasspathManagement.scala:149)
+	at org.scalaide.core.internal.project.ClasspathManagement.jdkPaths$(ClasspathManagement.scala:148)
+	at org.scalaide.core.internal.project.ScalaProject.jdkPaths(ScalaProject.scala:150)
+	at org.scalaide.core.internal.project.ClasspathManagement.scalaClasspath(ClasspathManagement.scala:136)
+	at org.scalaide.core.internal.project.ClasspathManagement.scalaClasspath$(ClasspathManagement.scala:135)
+	at org.scalaide.core.internal.project.ScalaProject.scalaClasspath(ScalaProject.scala:150)
+	at org.scalaide.core.internal.project.ScalaProject.setupCompilerClasspath(ScalaProject.scala:498)
+	at org.scalaide.core.internal.project.ScalaProject.initializeCompilerSettings(ScalaProject.scala:485)
+	at org.scalaide.core.internal.project.ScalaProject.prepareCompilerSettings(ScalaProject.scala:438)
+	at org.scalaide.core.internal.project.ScalaProject.$anonfun$presentationCompiler$1(ScalaProject.scala:162)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.liftedTree1$1(PresentationCompilerProxy.scala:154)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.create(PresentationCompilerProxy.scala:153)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.initialize(PresentationCompilerProxy.scala:118)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.obtainPc$1(PresentationCompilerProxy.scala:80)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:100)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.apply(PresentationCompilerProxy.scala:58)
+	at org.scalaide.core.compiler.InteractiveCompilationUnit.currentProblems(InteractiveCompilationUnit.scala:183)
+	at org.scalaide.core.compiler.InteractiveCompilationUnit.currentProblems$(InteractiveCompilationUnit.scala:180)
+	at org.scalaide.core.internal.jdt.model.ScalaSourceFile.currentProblems(ScalaSourceFile.scala:71)
+	at org.scalaide.core.compiler.InteractiveCompilationUnit.forceReconcile(InteractiveCompilationUnit.scala:151)
+	at org.scalaide.core.compiler.InteractiveCompilationUnit.forceReconcile$(InteractiveCompilationUnit.scala:149)
+	at org.scalaide.core.internal.jdt.model.ScalaSourceFile.forceReconcile(ScalaSourceFile.scala:71)
+	at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy.handleReconciliation(ScalaReconcilingStrategy.scala:54)
+	at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy.reconcile(ScalaReconcilingStrategy.scala:39)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:77)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:69)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+2018-10-13 14:24:44,254 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Error thrown while initializing the presentation compiler.
+Java Model Exception: Java Model Status [DataGenerator does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:556)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2451)
+	at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:1903)
+	at org.eclipse.jdt.internal.core.JavaProject.getRawClasspath(JavaProject.java:1925)
+	at org.scalaide.core.internal.project.ClasspathManagement.jdkPaths(ClasspathManagement.scala:149)
+	at org.scalaide.core.internal.project.ClasspathManagement.jdkPaths$(ClasspathManagement.scala:148)
+	at org.scalaide.core.internal.project.ScalaProject.jdkPaths(ScalaProject.scala:150)
+	at org.scalaide.core.internal.project.ClasspathManagement.scalaClasspath(ClasspathManagement.scala:136)
+	at org.scalaide.core.internal.project.ClasspathManagement.scalaClasspath$(ClasspathManagement.scala:135)
+	at org.scalaide.core.internal.project.ScalaProject.scalaClasspath(ScalaProject.scala:150)
+	at org.scalaide.core.internal.project.ScalaProject.setupCompilerClasspath(ScalaProject.scala:498)
+	at org.scalaide.core.internal.project.ScalaProject.initializeCompilerSettings(ScalaProject.scala:485)
+	at org.scalaide.core.internal.project.ScalaProject.prepareCompilerSettings(ScalaProject.scala:438)
+	at org.scalaide.core.internal.project.ScalaProject.$anonfun$presentationCompiler$1(ScalaProject.scala:162)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.liftedTree1$1(PresentationCompilerProxy.scala:154)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.create(PresentationCompilerProxy.scala:153)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.initialize(PresentationCompilerProxy.scala:118)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.obtainPc$1(PresentationCompilerProxy.scala:80)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:100)
+	at org.scalaide.ui.internal.editor.decorators.BaseSemanticAction.apply(BaseSemanticAction.scala:139)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$$anon$3.$anonfun$reconciled$3(ScalaSourceFileEditor.scala:105)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:12)
+	at org.scalaide.util.eclipse.EclipseUtils$$anon$3.run(EclipseUtils.scala:230)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.scalaide.util.eclipse.EclipseUtils$.withSafeRunner(EclipseUtils.scala:226)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$$anon$3.$anonfun$reconciled$1(ScalaSourceFileEditor.scala:105)
+	at scala.collection.mutable.ArraySeq.foreach(ArraySeq.scala:74)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$$anon$3.reconciled(ScalaSourceFileEditor.scala:103)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$ReconcilingListeners.$anonfun$reconciled$5(ScalaSourceFileEditor.scala:478)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$ReconcilingListeners.$anonfun$reconciled$5$adapted(ScalaSourceFileEditor.scala:478)
+	at scala.collection.immutable.List.foreach(List.scala:389)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$ReconcilingListeners.reconciled(ScalaSourceFileEditor.scala:478)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor.reconciled(ScalaSourceFileEditor.scala:379)
+	at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy.$anonfun$handleReconciliation$2(ScalaReconcilingStrategy.scala:65)
+	at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy.$anonfun$handleReconciliation$2$adapted(ScalaReconcilingStrategy.scala:65)
+	at scala.Option.foreach(Option.scala:257)
+	at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy.handleReconciliation(ScalaReconcilingStrategy.scala:65)
+	at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy.reconcile(ScalaReconcilingStrategy.scala:39)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:77)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:69)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+2018-10-13 14:24:44,254 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Error thrown while initializing the presentation compiler.
+Java Model Exception: Java Model Status [DataGenerator does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:556)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2451)
+	at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:1903)
+	at org.eclipse.jdt.internal.core.JavaProject.getRawClasspath(JavaProject.java:1925)
+	at org.scalaide.core.internal.project.ClasspathManagement.jdkPaths(ClasspathManagement.scala:149)
+	at org.scalaide.core.internal.project.ClasspathManagement.jdkPaths$(ClasspathManagement.scala:148)
+	at org.scalaide.core.internal.project.ScalaProject.jdkPaths(ScalaProject.scala:150)
+	at org.scalaide.core.internal.project.ClasspathManagement.scalaClasspath(ClasspathManagement.scala:136)
+	at org.scalaide.core.internal.project.ClasspathManagement.scalaClasspath$(ClasspathManagement.scala:135)
+	at org.scalaide.core.internal.project.ScalaProject.scalaClasspath(ScalaProject.scala:150)
+	at org.scalaide.core.internal.project.ScalaProject.setupCompilerClasspath(ScalaProject.scala:498)
+	at org.scalaide.core.internal.project.ScalaProject.initializeCompilerSettings(ScalaProject.scala:485)
+	at org.scalaide.core.internal.project.ScalaProject.prepareCompilerSettings(ScalaProject.scala:438)
+	at org.scalaide.core.internal.project.ScalaProject.$anonfun$presentationCompiler$1(ScalaProject.scala:162)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.liftedTree1$1(PresentationCompilerProxy.scala:154)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.create(PresentationCompilerProxy.scala:153)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.initialize(PresentationCompilerProxy.scala:118)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.obtainPc$1(PresentationCompilerProxy.scala:80)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:100)
+	at org.scalaide.ui.internal.editor.decorators.BaseSemanticAction.apply(BaseSemanticAction.scala:139)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$$anon$3.$anonfun$reconciled$3(ScalaSourceFileEditor.scala:105)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:12)
+	at org.scalaide.util.eclipse.EclipseUtils$$anon$3.run(EclipseUtils.scala:230)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.scalaide.util.eclipse.EclipseUtils$.withSafeRunner(EclipseUtils.scala:226)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$$anon$3.$anonfun$reconciled$1(ScalaSourceFileEditor.scala:105)
+	at scala.collection.mutable.ArraySeq.foreach(ArraySeq.scala:74)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$$anon$3.reconciled(ScalaSourceFileEditor.scala:103)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$ReconcilingListeners.$anonfun$reconciled$5(ScalaSourceFileEditor.scala:478)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$ReconcilingListeners.$anonfun$reconciled$5$adapted(ScalaSourceFileEditor.scala:478)
+	at scala.collection.immutable.List.foreach(List.scala:389)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$ReconcilingListeners.reconciled(ScalaSourceFileEditor.scala:478)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor.reconciled(ScalaSourceFileEditor.scala:379)
+	at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy.$anonfun$handleReconciliation$2(ScalaReconcilingStrategy.scala:65)
+	at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy.$anonfun$handleReconciliation$2$adapted(ScalaReconcilingStrategy.scala:65)
+	at scala.Option.foreach(Option.scala:257)
+	at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy.handleReconciliation(ScalaReconcilingStrategy.scala:65)
+	at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy.reconcile(ScalaReconcilingStrategy.scala:39)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:77)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:69)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+2018-10-13 14:24:44,255 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Error thrown while initializing the presentation compiler.
+Java Model Exception: Java Model Status [DataGenerator does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:556)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2451)
+	at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:1903)
+	at org.eclipse.jdt.internal.core.JavaProject.getRawClasspath(JavaProject.java:1925)
+	at org.scalaide.core.internal.project.ClasspathManagement.jdkPaths(ClasspathManagement.scala:149)
+	at org.scalaide.core.internal.project.ClasspathManagement.jdkPaths$(ClasspathManagement.scala:148)
+	at org.scalaide.core.internal.project.ScalaProject.jdkPaths(ScalaProject.scala:150)
+	at org.scalaide.core.internal.project.ClasspathManagement.scalaClasspath(ClasspathManagement.scala:136)
+	at org.scalaide.core.internal.project.ClasspathManagement.scalaClasspath$(ClasspathManagement.scala:135)
+	at org.scalaide.core.internal.project.ScalaProject.scalaClasspath(ScalaProject.scala:150)
+	at org.scalaide.core.internal.project.ScalaProject.setupCompilerClasspath(ScalaProject.scala:498)
+	at org.scalaide.core.internal.project.ScalaProject.initializeCompilerSettings(ScalaProject.scala:485)
+	at org.scalaide.core.internal.project.ScalaProject.prepareCompilerSettings(ScalaProject.scala:438)
+	at org.scalaide.core.internal.project.ScalaProject.$anonfun$presentationCompiler$1(ScalaProject.scala:162)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.liftedTree1$1(PresentationCompilerProxy.scala:154)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.create(PresentationCompilerProxy.scala:153)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.initialize(PresentationCompilerProxy.scala:118)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.obtainPc$1(PresentationCompilerProxy.scala:80)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:100)
+	at org.scalaide.ui.internal.editor.decorators.BaseSemanticAction.apply(BaseSemanticAction.scala:139)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$$anon$3.$anonfun$reconciled$3(ScalaSourceFileEditor.scala:105)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:12)
+	at org.scalaide.util.eclipse.EclipseUtils$$anon$3.run(EclipseUtils.scala:230)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.scalaide.util.eclipse.EclipseUtils$.withSafeRunner(EclipseUtils.scala:226)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$$anon$3.$anonfun$reconciled$1(ScalaSourceFileEditor.scala:105)
+	at scala.collection.mutable.ArraySeq.foreach(ArraySeq.scala:74)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$$anon$3.reconciled(ScalaSourceFileEditor.scala:103)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$ReconcilingListeners.$anonfun$reconciled$5(ScalaSourceFileEditor.scala:478)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$ReconcilingListeners.$anonfun$reconciled$5$adapted(ScalaSourceFileEditor.scala:478)
+	at scala.collection.immutable.List.foreach(List.scala:389)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$ReconcilingListeners.reconciled(ScalaSourceFileEditor.scala:478)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor.reconciled(ScalaSourceFileEditor.scala:379)
+	at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy.$anonfun$handleReconciliation$2(ScalaReconcilingStrategy.scala:65)
+	at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy.$anonfun$handleReconciliation$2$adapted(ScalaReconcilingStrategy.scala:65)
+	at scala.Option.foreach(Option.scala:257)
+	at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy.handleReconciliation(ScalaReconcilingStrategy.scala:65)
+	at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy.reconcile(ScalaReconcilingStrategy.scala:39)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:77)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:69)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+2018-10-13 14:31:03,920  WARN [ModalContext] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 14:31:03,920  WARN [ModalContext] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 14:31:04,022  WARN [ModalContext] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 14:31:04,027  WARN [ModalContext] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 14:31:04,042  WARN [Worker-25] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 14:31:04,042  WARN [Worker-25] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 14:31:04,204  WARN [Worker-26] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 14:31:04,204  WARN [Worker-26] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 14:32:11,903  WARN [Worker-25] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 14:32:11,903  WARN [Worker-25] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 14:51:27,217  WARN [Worker-26] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 14:51:27,217  WARN [Worker-26] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 15:05:22,879  WARN [Worker-21] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 15:05:22,879  WARN [Worker-21] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 15:06:11,177  WARN [Worker-32] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 15:06:11,178  WARN [Worker-32] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 15:41:33,607  WARN [Worker-27] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 15:41:33,607  WARN [Worker-27] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 16:10:48,929  WARN [Worker-27] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 16:10:48,929  WARN [Worker-27] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 16:14:14,856  WARN [Worker-37] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 16:14:14,856  WARN [Worker-37] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 16:17:09,620  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 291
+2018-10-13 16:17:11,144  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 292
+2018-10-13 16:17:12,160  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 293
+2018-10-13 16:17:14,189  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 208
+2018-10-13 16:17:28,791  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 208
+2018-10-13 16:17:29,298  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 208
+2018-10-13 16:18:57,072  WARN [Worker-41] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 16:18:57,072  WARN [Worker-41] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 16:20:05,500  WARN [Worker-27] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 16:20:05,500  WARN [Worker-27] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 16:23:42,424  WARN [Worker-41] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 16:23:42,424  WARN [Worker-41] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 16:39:20,871  WARN [Worker-42] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 16:39:20,871  WARN [Worker-42] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 16:44:34,288  WARN [Worker-36] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 16:44:34,289  WARN [Worker-36] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 16:46:33,525  WARN [Worker-38] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 16:46:33,525  WARN [Worker-38] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-13 16:47:21,021  WARN [Worker-40] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-13 16:47:21,021  WARN [Worker-40] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-14 10:26:20,277  WARN [Worker-175] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-14 10:26:20,277  WARN [Worker-175] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-14 10:26:20,324  WARN [Worker-175] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-14 10:26:20,324  WARN [Worker-175] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-14 10:26:20,438  WARN [Worker-176] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-14 10:26:20,438  WARN [Worker-176] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-14 10:26:21,093  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-14 10:26:21,093  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-15 20:25:27,394 ERROR [main] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
+2018-10-15 20:25:27,395 ERROR [main] - System.err - log4j:WARN Please initialize the log4j system properly.
+2018-10-15 20:25:27,586  WARN [Worker-396] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-15 20:25:27,586  WARN [Worker-396] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-15 20:25:32,610  WARN [Worker-405] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-15 20:25:32,610  WARN [Worker-405] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-15 20:40:43,341  WARN [Worker-406] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-15 20:40:43,342  WARN [Worker-406] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-15 20:41:17,870  WARN [Worker-0] - ScalaProject - Project hello has platform default sourceLevel.
+2018-10-15 20:41:17,872  WARN [Worker-0] - ScalaProject - Project hello runs on platform default installation.
+2018-10-15 20:41:17,878  WARN [Worker-0] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-15 20:41:17,878  WARN [Worker-0] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-15 20:41:22,884 ERROR [Worker-1] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
+2018-10-15 20:41:22,884 ERROR [Worker-1] - System.err - log4j:WARN Please initialize the log4j system properly.
+2018-10-15 20:41:50,571  WARN [Worker-5] - ScalaProject - Project hello has platform default sourceLevel.
+2018-10-15 20:41:50,573  WARN [Worker-5] - ScalaProject - Project hello runs on platform default installation.
+2018-10-15 20:41:50,578  WARN [Worker-5] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-15 20:41:50,579  WARN [Worker-5] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-15 20:43:04,970 ERROR [Worker-1] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
+2018-10-15 20:43:04,970 ERROR [Worker-1] - System.err - log4j:WARN Please initialize the log4j system properly.
+2018-10-15 20:43:24,153  WARN [main] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-15 20:43:24,153  WARN [main] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-15 20:45:45,568  WARN [main] - ScalaProject - Project hello has platform default sourceLevel.
+2018-10-15 20:45:45,568  WARN [main] - ScalaProject - Project hello runs on platform default installation.
+2018-10-15 20:46:22,615  WARN [Worker-2] - ScalaProject - Project hello has platform default sourceLevel.
+2018-10-15 20:46:22,616  WARN [Worker-2] - ScalaProject - Project hello runs on platform default installation.
+2018-10-15 20:46:22,660  WARN [Worker-2] - ScalaProject - Project hello has platform default sourceLevel.
+2018-10-15 20:46:22,660  WARN [Worker-2] - ScalaProject - Project hello runs on platform default installation.
+2018-10-15 20:47:33,525  WARN [Worker-2] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-15 20:47:33,525  WARN [Worker-2] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-15 20:47:33,533  WARN [Worker-2] - ScalaProject - Project DataGenerator has platform default sourceLevel.
+2018-10-15 20:47:33,533  WARN [Worker-2] - ScalaProject - Project DataGenerator runs on platform default installation.
+2018-10-15 20:47:36,701  WARN [Worker-0] - ScalaProject - Project hello has platform default sourceLevel.
+2018-10-15 20:47:36,701  WARN [Worker-0] - ScalaProject - Project hello runs on platform default installation.
